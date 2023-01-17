@@ -1,3 +1,3 @@
-# java-double-sided-stack
+# double-sided-stack
 
-my implementation of a double-sided stack data structure
+My implementation of a double-sided stack data structure. This was for my Algorithms course.
